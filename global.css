@@ -296,7 +296,7 @@ span.focus {
   transition: 0.3s;
 }
 
-.tech > .container .card-tech img:hover {
+.tech > .container .card-tech:hover img {
   transform: scale(1.1);
 } 
 
